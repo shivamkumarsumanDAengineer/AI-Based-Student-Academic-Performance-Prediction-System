@@ -1,45 +1,62 @@
 # 🎓 AI-Based Student Academic Performance Prediction System
 
-## Overview
+## 🚀 Live Demo
 
-This project predicts student academic performance using Machine Learning.
+**Try the project online:** [Click Here to Open Live App](https://ai-based-student-academic-performance-prediction-system-83p8qb.streamlit.app/)
 
-## Features
+## 📌 Overview
 
-* Attendance Calculation
-* Final Score Prediction
-* AI Recommendations
-* Performance Dashboard
-* Report Download
+This project predicts student academic performance using Machine Learning. It helps analyze attendance, predict final scores, and provide AI-based recommendations through an interactive dashboard.
 
-## Technologies
+## ✨ Features
 
-* Python
-* Streamlit
-* Pandas
-* NumPy
-* Scikit-Learn
-* Joblib
+- Attendance Calculation
+- Final Score Prediction
+- AI Recommendations
+- Performance Dashboard
+- Report Download
 
-## Machine Learning Models
+## 🛠️ Technologies
 
-* Linear Regression
-* Random Forest
-* XGBoost
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-Learn
+- Joblib
 
-## Folder Structure
+## 🤖 Machine Learning Models
 
+- Linear Regression
+- Random Forest
+- XGBoost
+
+## 📂 Folder Structure
+
+```text
 Dataset/
-
 Notebook/
-
 Model/
-
-Streamlit\_App/
-
+Streamlit_App/
 README.md
-
 requirements.txt
+```
 
-## 
+## ▶️ Run Locally
 
+1. Clone or download this repository.
+2. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the Streamlit application:
+
+   ```bash
+   streamlit run Streamlit_App/app.py
+   ```
+
+## 👨‍💻 Project Type
+
+Machine Learning | Streamlit Web Application | Academic Performance Prediction
