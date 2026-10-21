@@ -1,5 +1,3 @@
-chat gpt add live link  in the readme section,# 🎓 AI-Based Student Academic Performance Prediction System
-
 ## Overview
 
 This project predicts student academic performance using Machine Learning.
